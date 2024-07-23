@@ -1,4 +1,0 @@
-A new file added to verify the changes
-Test - #2
-Choose the correct branch in SCM for the GitSCm Pool
-Problem Resolved 
